@@ -3,8 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 
-/*Styles for Mobile*/
-
 :root {
     --cor01: hsl(0, 0%, 100%);
     --cor02: hsl(178, 100%, 50%);
