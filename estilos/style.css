@@ -23,7 +23,7 @@
 html, body{
     width: 100vw;
     height: 100vh;
-    background-color: var(--cor05);
+    background-color: var(--cor06);
     font-family: var(--fonte-texto);
 }
 
@@ -38,7 +38,7 @@ main{
 }   
 
 article{
-    background-color: var(--cor04);
+    background-color: var(--cor05);
     width: 350px;
     padding: 25px;
     border-radius: 15px;
